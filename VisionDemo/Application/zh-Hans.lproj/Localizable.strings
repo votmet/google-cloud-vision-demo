@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  VisionDemo
+
+  Created by VMT on 2018/10/16.
+  Copyright © 2018年 vmt. All rights reserved.
+*/
+
+// common
+"history" = "历史记录";
+"email" = "电子邮箱";
+"password" = "密码";
+"confirm_password" = "确认密码";
+"label" = "标签";
+"web" = "网页";
+"restore" = "重载已购";
+"Wiki" = "百科";
+"Experience Classroom" = "体验教室";
+"Native Products" = "土特产";
+"Travel Guide" = "旅行指南";
+"Search" = "搜索";
+"User ID" = "用户 ID";
+"deposit" = "充值";
+"cancel" = "取消";
+"sorry" = "抱歉";
+
+// weather
+"Thunderstorm" = "雷雨";
+"Drizzle" = "小雨";
+"Rain" = "雨";
+"Snow" = "雪";
+"Mist" = "雾";
+"Fog" = "雾";
+"Clear" = "晴天";
+"Clouds" = "多云";
+
+// dashboard
+"dashboard_photos_button" = "相册";
+"dashboard_camera_button" = "拍照";
+
+// previewer
+"previewer_navigation_title" = "预览";
+"previewer_translate_button" = "翻译";
+"previewer_analyze_button" = "分析";
+"no_enough_balance" = "点数不足，请充值";
+
+// analyze
+"analyze_navigation_title" = "分析";
+"analyze_section_title_analyzing" = "分析";
+"analyze_section_title_annotations" = "注解";
+
+// landmark
+"landmark_navigation_title" = "地标";
+
+// translate
+"translate_navigation_title" = "翻译";
+"translate_confirm_button" = "确定";
+
+// translation
+"translation_navigation_title" = "翻译";
+
+// profile
+"profile_balance" = "余额";
+"profile_deposit_1" = "加载中...";
+"profile_deposit_2" = "点击广告赚取M币";
+"profile_deposit_2_not_ready" = "加载中...";
+"profile_section_title_settings" = "设置";
+"profile_language" = "语言";
+"profile_login" = "登录";
+"profile_register" = "新建账户";

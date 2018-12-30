@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  VisionDemo
+
+  Created by VMT on 2018/10/16.
+  Copyright © 2018年 vmt. All rights reserved.
+*/
+
+// common
+"history" = "히스토리";
+"email" = "이메일 주소";
+"password" = "비밀번호";
+"confirm_password" = "비밀번호 확인";
+"label" = "라벨";
+"web" = "웹";
+"restore" = "복원";
+"Wiki" = "위키";
+"Experience Classroom" = "경험 교실";
+"Native Products" = "네이티브 제품";
+"Travel Guide" = "여행 가이드";
+"Search" = "검색";
+"User ID" = "아이디";
+"deposit" = "디포짓";
+"cancel" = "캔슬";
+"sorry" = "미안하다";
+
+// weather
+"Thunderstorm" = "뇌우";
+"Drizzle" = "보슬비";
+"Rain" = "비";
+"Snow" = "눈";
+"Mist" = "안개";
+"Fog" = "안개";
+"Clear" = "화창한 날";
+"Clouds" = "구름";
+
+// dashboard
+"dashboard_photos_button" = "사진 라이브러리";
+"dashboard_camera_button" = "카메라";
+
+// previewer
+"previewer_navigation_title" = "미리보기";
+"previewer_translate_button" = "번역";
+"previewer_analyze_button" = "분석";
+"no_enough_balance" = "사용하실 포인트가 충본하지 않습니다.";
+
+// analyze
+"analyze_navigation_title" = "분석";
+"analyze_section_title_analyzing" = "분석중";
+"analyze_section_title_annotations" = "주석";
+
+// landmark
+"landmark_navigation_title" = "경계표";
+
+// translate
+"translate_navigation_title" = "번역";
+"translate_confirm_button" = "번역 확인";
+
+// translation
+"translation_navigation_title" = "번역";
+
+// profile
+"profile_balance" = "잔액";
+"profile_deposit_1" = "로딩중...";
+"profile_deposit_2" = "보상 포인트를 받고잇습니다.";
+"profile_deposit_2_not_ready" = "로딩중...";
+"profile_section_title_settings" = "설정";
+"profile_language" = "언어";
+"profile_login" = "로그인";
+"profile_register" = "새 계정을 만들기";
+

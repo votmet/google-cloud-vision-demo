@@ -1,0 +1,55 @@
+/* 
+  Localizable.strings
+  VisionDemo
+
+  Created by VMT on 2018/10/16.
+  Copyright © 2018年 vmt. All rights reserved.
+*/
+
+// common
+"history" = "History";
+"email" = "Email Address";
+"password" = "Password";
+"confirm_password" = "Confirm Password";
+"label" = "Label";
+"web" = "Web Page";
+"restore" = "Restore M Coin";
+"deposit" = "Deposit";
+"cancel" = "Cancel";
+"sorry" = "Sorry";
+
+// dashboard
+"dashboard_photos_button" = "Photo";
+"dashboard_camera_button" = "Camera";
+
+// previewer
+"previewer_navigation_title" = "Preview";
+"previewer_translate_button" = "Translate";
+"previewer_analyze_button" = "Analyze";
+"no_enough_balance" = "Oops, not enough M Coins.";
+
+// analyze
+"analyze_navigation_title" = "Analyze";
+"analyze_section_title_analyzing" = "Analysing";
+"analyze_section_title_annotations" = "Results";
+
+// landmark
+"landmark_navigation_title" = "Landmark";
+
+// translate
+"translate_navigation_title" = "Translate";
+"translate_confirm_button" = "OK";
+
+// translation
+"translation_navigation_title" = "Translation";
+
+// profile
+"profile_balance" = "M Coin Balance";
+"profile_deposit_1" = "Loading purchase info...";
+"profile_deposit_2" = "Get reward points";
+"profile_deposit_2_not_ready" = "Loading Ads...";
+"profile_section_title_settings" = "Settings";
+"profile_language" = "Language";
+"profile_login" = "Login";
+"profile_register" = "Create New Account";
+

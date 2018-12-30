@@ -1,0 +1,70 @@
+/*
+  Localizable.strings
+  VisionDemo
+ 
+  Created by VMT on 2018/10/16.
+  Copyright © 2018年 vmt. All rights reserved.
+ */
+
+// common
+"history" = "履歴";
+"email" = "メールアドレス";
+"password" = "パスワード";
+"confirm_password" = "パスワードを確認する";
+"label" = "ラベル";
+"web" = "ウェブページ";
+"restore" = "Mコインをリストア";
+"Wiki" = "ウィキペディア";
+"Experience Classroom" = "体験";
+"Native Products" = "名物";
+"Travel Guide" = "観光";
+"Search" = "検索";
+"User ID" = "ユーザーID";
+"deposit" = "購入";
+"cancel" = "取消";
+"sorry" = "申し訳ありません";
+
+// weather
+"Thunderstorm" = "雷雨";
+"Drizzle" = "霧雨";
+"Rain" = "雨";
+"Snow" = "雪";
+"Mist" = "霧";
+"Fog" = "霧";
+"Clear" = "晴れ";
+"Clouds" = "曇り";
+
+// dashboard
+"dashboard_photos_button" = "写真";
+"dashboard_camera_button" = "カメラ";
+
+// previewer
+"previewer_navigation_title" = "プレビュー";
+"previewer_translate_button" = "翻訳する";
+"previewer_analyze_button" = "分析する";
+"no_enough_balance" = "Mコインをご購入ください";
+
+// analyze
+"analyze_navigation_title" = "写真分析";
+"analyze_section_title_analyzing" = "分析中...";
+"analyze_section_title_annotations" = "分析結果";
+
+// landmark
+"landmark_navigation_title" = "ランドマーク";
+
+// translate
+"translate_navigation_title" = "翻訳";
+"translate_confirm_button" = "OK";
+
+// translation
+"translation_navigation_title" = "翻訳";
+
+// profile
+"profile_balance" = "Mコイン残高";
+"profile_deposit_1" = "購入情報を読込み中...";
+"profile_deposit_2" = "Mコインを無料獲得するには、こちらへ";
+"profile_deposit_2_not_ready" = "広告を読込み中...";
+"profile_section_title_settings" = "設定";
+"profile_language" = "言語";
+"profile_login" = "ログイン";
+"profile_register" = "新規登録";
